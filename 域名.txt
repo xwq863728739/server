@@ -1,33 +1,33 @@
-1.ÌÔ±¦°¢ÀïÔÆ¹ºÂòÔÆ·þÎñÆ÷esc9.9Ôª°ëÄê
+1.æ·˜å®é˜¿é‡Œäº‘è´­ä¹°äº‘æœåŠ¡å™¨ECS 9.9å…ƒåŠå¹´
 
-2.¹ºÂòÓòÃû×îµÍ3Ôª
+2.è´­ä¹°åŸŸåæœ€ä½Ž3å…ƒ
 
-3.ÓòÃûÊµÃûÖÆ
+3.åŸŸåå®žååˆ¶ï¼Œéœ€è¦èº«ä»½è¯æ­£é¢
 
-4.½âÎöÓòÃû
+4.è§£æžåŸŸå
 
-5.ÔÆ·þÎñÆ÷´´½¨ÊµÀý£¬¹«ÍøIP39.108.215.222
+5.äº‘æœåŠ¡å™¨åˆ›å»ºå®žä¾‹ï¼Œå…¬ç½‘IP 39.108.215.222
 
-6.°ó¶¨·þÎñÆ÷ÓëÓòÃû£º
-¶Ë¿ÚºÅ¸ÄÎª80£¬²¢ÔÚ°¢ÀïÔÆÊµÀýÖÐ°²È«×é½øÐÐÅäÖÃ¹æÔò£¬Ìí¼Ó°²È«×é¹æÔò£¬ÉèÖÃ
-80¶Ë¿Ú·ÃÎÊ¡£
-Hose name="www.xiongwenqiang.top"
-ÐÂÔö£º<Context path="" docBase="/bootstrap"></Context>
+6.ç»‘å®šæœåŠ¡å™¨ä¸ŽåŸŸåï¼š
+ç«¯å£å·æ”¹ä¸º80ï¼Œå¹¶åœ¨é˜¿é‡Œäº‘å®žä¾‹ä¸­å®‰å…¨ç»„è¿›è¡Œé…ç½®è§„åˆ™ï¼Œæ·»åŠ å®‰å…¨ç»„è§„åˆ™ï¼Œè®¾ç½®
+80ç«¯å£è®¿é—®ã€‚
+Hose name="www.xiongwenqiang.top" nameä¸­ä¸ºä½ çš„åŸŸå
+æ–°å¢žï¼š<Context path="" docBase="/bootstrap"></Context> doBaseé‡Œæ˜¯é¡¹ç›®å
 
-ÏêÇé£º
+è¯¦æƒ…ï¼š
 http://m.blog.csdn.net/qq_34379645/article/details/73531243
 
-7.ÔÚÔÆ·þÎñÆ÷ÅäÖÃJDKºÍTOMCAT£¬°æ±¾ÒªÒ»ÖÂ£¬ÅäÖÃ¼ûÏêÇéÎÄ¼þ¡£
+7.åœ¨äº‘æœåŠ¡å™¨é…ç½®JDKå’ŒTOMCATï¼Œç‰ˆæœ¬è¦ä¸€è‡´ï¼Œå¦‚ä½•é…ç½®è¯·ç™¾åº¦ã€‚
 
-8.ÏîÄ¿·ÅÔÚtomcat/webapps/£¬ÏîÄ¿ÖÐÒªÓÐÈë¿ÚÎÄ¼þindex.html
+8.é¡¹ç›®æ”¾åœ¨tomcat/webapps/ï¼Œé¡¹ç›®ä¸­è¦æœ‰å…¥å£æ–‡ä»¶index.html
 
-9.·ÃÎÊÓòÃûÈçhttp://xiongwenqiang.top¼´¿É·ÃÎÊ¸ÃÏîÄ¿
+9.è®¿é—®åŸŸåå¦‚http://xiongwenqiang.topå³å¯è®¿é—®è¯¥é¡¹ç›®
 
-10.ÔÆ·þÎñÆ÷¶Ë°²×°virtual svn·þÎñÆ÷¶Ë£¬²¢ÐÂ½¨repository£¬ÏîÄ¿ÃûÎªbootstrap£¬
-ÐÂ½¨uesrÈçÓÃ»§Ãûadmin£¬ÃÜÂë123456£¨¿Í»§¶ËÁ¬½ÓÓÃ£©£¬ÉèÖÃproperty networkÎª
-ÔÆ·þÎñÆ÷IPµØÖ·,ÏêÇé¼û¡®ÈçºÎÔ¶³Ì·ÃÎÊsvn·þÎñÆ÷¡¯¡£
+10.äº‘æœåŠ¡å™¨ç«¯å®‰è£…virtual svnæœåŠ¡å™¨ç«¯ï¼Œå¹¶æ–°å»ºrepositoryï¼Œé¡¹ç›®åä¸ºbootstrapï¼Œ
+æ–°å»ºuesrå¦‚ç”¨æˆ·åadminï¼Œå¯†ç 123456ï¼ˆå®¢æˆ·ç«¯è¿žæŽ¥ç”¨ï¼‰ï¼Œè®¾ç½®property networkä¸º
+äº‘æœåŠ¡å™¨IPåœ°å€,è¯¦æƒ…è§â€˜å¦‚ä½•è¿œç¨‹è®¿é—®svnæœåŠ¡å™¨â€™æ–‡ä»¶ã€‚
 
-11.±¾»ú°²×°tortoise svn¿Í»§¶Ë£¬Á¬½ÓµØÖ·Îªhttps://172.18.166.127(ÔÆ·þÎñÆ÷IP
-µØÖ·£¬·Ç¹«ÍøIPµØÖ·¡£¿ÉÍ¨¹ýcmdÏÂipconfig/allµÃµ½)
+11.æœ¬æœºå®‰è£…tortoise svnå®¢æˆ·ç«¯ï¼Œè¿žæŽ¥åœ°å€ä¸ºhttps://172.18.166.127(äº‘æœåŠ¡å™¨IP
+åœ°å€ï¼Œéžå…¬ç½‘IPåœ°å€ã€‚å¯é€šè¿‡cmdä¸‹ipconfig/allå¾—åˆ°)
 
-12.ÔÆ·þÎñÆ÷°²×°tortoise svn¿Í»§¶Ë£¬ÔÚwebappsÄ¿Â¼ÏÂcheckoutÏÂÔØsvn·þÎñÆ÷ÏîÄ¿£¬Í¨¹ýcommit£¬updateÃüÁî¸üÐÂÄ¿Â¼¼´¿É¡£
+12.äº‘æœåŠ¡å™¨å®‰è£…tortoise svnå®¢æˆ·ç«¯ï¼Œåœ¨webappsç›®å½•ä¸‹checkoutä¸‹è½½svnæœåŠ¡å™¨é¡¹ç›®ï¼Œé€šè¿‡commitï¼Œupdateå‘½ä»¤æ›´æ–°ç›®å½•å³å¯ã€‚
