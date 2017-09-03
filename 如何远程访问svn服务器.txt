@@ -1,0 +1,27 @@
+一. 场景：
+
+1. svn 服务器IP 地址: 192.168.1.20(ipconfig/all) 网关192.168.1.1， 服务器软件 
+
+VisualSVN Server ，运行在win2008 服务器；
+2. 服务器的所在的路由器的局域网地址: 192.168.1.1 公网地址 183.25.36.23
+
+    路由器的映射表：
+
+443 ->(192.168.1.20:443)
+
+
+二.  svn 服务器配置
+
+1. 服务器配置，
+
+点击开始–>程序->VisualSVN–>VisuaSVN Server Manager启动服务器管理器;
+
+右键选择 VisualSVN Server(Local) ，选择 Properties ，在弹出窗口中选择NetWork 标签，在 ServerName 处输入本机的 IP 地址，
+
+我的地址为192.168.1.20
+
+
+
+2. 这样在远程的电脑就可以通过如下url 访问：
+
+https://183.25.36.23:443/svn/abc
